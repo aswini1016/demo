@@ -1,0 +1,3 @@
+let ele = emp.getElementsByEmpId("");
+console.log(ele);
+console.log(Array.isArray(ele));
